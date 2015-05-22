@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TurboTabs\n"
+"POT-Creation-Date: 2015-04-10 11:51+0100\n"
+"PO-Revision-Date: 2015-04-10 12:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/register.php:26
+msgid "TurboTabs"
+msgstr "ТурбоТабс"
+
+#: inc/register.php:27
+msgid "Tab"
+msgstr "Таб"
+
+#: inc/register.php:28
+msgid "Tabs"
+msgstr "Табови"
+
+#: inc/register.php:29 inc/setup.php:189 inc/setup.php:190
+msgid "Add Tab"
+msgstr "Додај Таб"
+
+#: inc/register.php:30
+msgid "Add new Tab"
+msgstr "Додај Нови Таб"
+
+#: inc/register.php:31
+msgid "New Tab"
+msgstr "Нови Таб"
+
+#: inc/register.php:32
+msgid "Edit Tab"
+msgstr "Уреди Таб"
+
+#: inc/register.php:33
+msgid "All Tabs"
+msgstr "Сви Табови"
+
+#: inc/register.php:34
+msgid "View Tab"
+msgstr "Погледај Таб"
+
+#: inc/register.php:35
+msgid "No Tab found"
+msgstr "Нема пронађених табова"
+
+#: inc/register.php:36
+msgid "No Tabs found in trash"
+msgstr "Нема табова у смећу"
+
+#: inc/register.php:56 inc/register.php:64
+msgid "Groups"
+msgstr "Групе"
+
+#: inc/register.php:57 inc/setup.php:234
+msgid "Group"
+msgstr "група"
+
+#: inc/register.php:58
+msgid "Search Groups"
+msgstr "Потражи Групе"
+
+#: inc/register.php:59
+msgid "All Groups"
+msgstr "Све Групе"
+
+#: inc/register.php:60
+msgid "Edit Group"
+msgstr "Уреди Групу"
+
+#: inc/register.php:61
+msgid "Update Group"
+msgstr "Обнови Групу"
+
+#: inc/register.php:62
+msgid "Add New Group"
+msgstr "Додај Нову Групу"
+
+#: inc/register.php:63
+msgid "New Group Name"
+msgstr "Име Нове група"
+
+#: inc/register.php:65
+msgid "No Group found"
+msgstr "Нема пронађених група"
+
+#: inc/register.php:82
+msgid "Nav Title Icon"
+msgstr "Иконица"
+
+#: inc/register.php:89
+msgid "Optional Navigation Sub-Title"
+msgstr "Опционални Под Наслов"
+
+#: inc/register.php:107
+msgid "Select an Icon"
+msgstr "Изаберите икону"
+
+#: inc/register.php:218
+msgid "Customization Options"
+msgstr "Опције прилагођавања"
+
+#: inc/register.php:222
+msgid "Basics"
+msgstr "Основе"
+
+#: inc/register.php:223
+msgid "Colors"
+msgstr "Боја"
+
+#: inc/register.php:224
+msgid ":Hover Colors"
+msgstr ": Hover Боје"
+
+#: inc/register.php:225
+msgid "Dimensions"
+msgstr "Димензије"
+
+#: inc/register.php:231
+msgid "Set Active Tab"
+msgstr "Изабери Активни Таб"
+
+#: inc/register.php:240
+msgid "Select Layout"
+msgstr "Изабери Шаблон"
+
+#: inc/register.php:249
+msgid "Select an animation"
+msgstr "Изабери Анимацију"
+
+#: inc/register.php:282
+msgid "Select Mode"
+msgstr "Изабери Режим"
+
+#: inc/register.php:290
+msgid "Navigation Tabs Position"
+msgstr "Позиција Навигације"
+
+#: inc/register.php:303
+msgid "Navigation Tabs Align"
+msgstr "Положај Навигације"
+
+#: inc/register.php:318
+msgid "Float Tab"
+msgstr "Склони у Страну (Float)"
+
+#: inc/register.php:327
+msgid "Turn On/Off Nav and heading title text shadow:"
+msgstr "Укључи или искључи сенку текста на титлу"
+
+#: inc/register.php:333
+msgid "Choose between dark/light"
+msgstr "Изабери између тамније / светлије"
+
+#: inc/register.php:351
+msgid "Icon Color"
+msgstr "Боја Иконице"
+
+#: inc/register.php:355
+msgid "Title Color"
+msgstr "Боја Титла"
+
+#: inc/register.php:359
+msgid "SubTitle Color"
+msgstr "Боја ПодТитла"
+
+#: inc/register.php:363
+msgid "Content Text Color"
+msgstr "Одреди боју текста"
+
+#: inc/register.php:368
+msgid "Tab Navigation Background Color"
+msgstr "Боја позадине Навигације"
+
+#: inc/register.php:375
+msgid "Tab Content Background Color"
+msgstr "Боја позадине садрђаја Таба"
+
+#: inc/register.php:381
+msgid "Border Color"
+msgstr "Боја оквира (Border)"
+
+#: inc/register.php:387
+msgid "Accordion heading Background Color"
+msgstr "Боја позадине наслова акордион мода"
+
+#: inc/register.php:397
+msgid "Tab Navigation on :Hover Text Color"
+msgstr "Боја текста навигације када се мишом пређе преко ње"
+
+#: inc/register.php:402
+msgid "Tab Navigation on :Hover Background Color"
+msgstr "Боја позадине навигац. када се мишом пређе преко ње"
+
+#: inc/register.php:410
+msgid "Tab Navigation Selected (active one) Background Color"
+msgstr "Боја позадине активног таба"
+
+#: inc/register.php:418
+msgid "Selected (active one) Tab Navigation Border Color"
+msgstr "Боја оквира активног таба"
+
+#: inc/register.php:426
+msgid "Tab Width (in %)"
+msgstr "Ширина Таба у процентима"
+
+#: inc/register.php:432
+msgid "Padding (in %)"
+msgstr "Унутрашњи размак, у процентима"
+
+#: inc/register.php:438
+msgid "Border Radius"
+msgstr "Оштрина Оквира"
+
+#: inc/register.php:443
+msgid "Box Shadow"
+msgstr "Сенка око Таба"
+
+#: inc/setup.php:157
+msgid "Save/Update Tab"
+msgstr "Сачувај / Обнови"
+
+#: inc/setup.php:177
+msgid "Delete Permanently"
+msgstr "Трајно обриши"
+
+#: inc/setup.php:179
+msgid "Move to Trash"
+msgstr "Премести у отпад"
+
+#: inc/setup.php:194 inc/setup.php:195
+msgid "Update Tab"
+msgstr "Обнови Таб"
+
+#: inc/setup.php:231
+msgid "Tab Navigation Title"
+msgstr "Наслов"
+
+#: inc/setup.php:232
+msgid "SubTitle"
+msgstr "ПодНаслов"
+
+#: inc/setup.php:233
+msgid "Icon"
+msgstr "Иконица"
+
+#: inc/setup.php:235
+msgid "Date"
+msgstr "Datum"

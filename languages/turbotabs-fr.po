@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TurboTabs\n"
+"POT-Creation-Date: 2015-04-10 11:08+0100\n"
+"PO-Revision-Date: 2015-04-10 11:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/register.php:26
+msgid "TurboTabs"
+msgstr "TurboTabs"
+
+#: inc/register.php:27
+msgid "Tab"
+msgstr "Onglet"
+
+#: inc/register.php:28
+msgid "Tabs"
+msgstr "les onglets"
+
+#: inc/register.php:29 inc/setup.php:189 inc/setup.php:190
+msgid "Add Tab"
+msgstr "Ajouter un onglet"
+
+#: inc/register.php:30
+msgid "Add new Tab"
+msgstr "Ajouter nouvel onglet"
+
+#: inc/register.php:31
+msgid "New Tab"
+msgstr "Nouvel onglet"
+
+#: inc/register.php:32
+msgid "Edit Tab"
+msgstr "Modifier onglet"
+
+#: inc/register.php:33
+msgid "All Tabs"
+msgstr "Tous les onglets"
+
+#: inc/register.php:34
+msgid "View Tab"
+msgstr "Voir Onglet"
+
+#: inc/register.php:35
+msgid "No Tab found"
+msgstr "Pas de match trouvé"
+
+#: inc/register.php:36
+msgid "No Tabs found in trash"
+msgstr "Pas de match trouvé"
+
+#: inc/register.php:56 inc/register.php:64
+msgid "Groups"
+msgstr "Groupes"
+
+#: inc/register.php:57 inc/setup.php:234
+msgid "Group"
+msgstr "Groupe"
+
+#: inc/register.php:58
+msgid "Search Groups"
+msgstr "Recherche groupes d'onglet"
+
+#: inc/register.php:59
+msgid "All Groups"
+msgstr "Tous les groupes"
+
+#: inc/register.php:60
+msgid "Edit Group"
+msgstr "Modifier le groupe"
+
+#: inc/register.php:61
+msgid "Update Group"
+msgstr "Mise à jour Groupe"
+
+#: inc/register.php:62
+msgid "Add New Group"
+msgstr "﻿Ajouter un nouveau groupe"
+
+#: inc/register.php:63
+msgid "New Group Name"
+msgstr "Nom du groupe"
+
+#: inc/register.php:65
+msgid "No Group found"
+msgstr "﻿Aucun groupe trouvé"
+
+#: inc/register.php:82
+msgid "Nav Title Icon"
+msgstr "Icône du Titre"
+
+#: inc/register.php:89
+msgid "Optional Navigation Sub-Title"
+msgstr "Navigation option Sous-titre"
+
+#: inc/register.php:107
+msgid "Select an Icon"
+msgstr "Sélectionner une icône"
+
+#: inc/register.php:218
+msgid "Customization Options"
+msgstr "Options de personnalisation"
+
+#: inc/register.php:222
+msgid "Basics"
+msgstr "Basiques"
+
+#: inc/register.php:223
+msgid "Colors"
+msgstr "Couleurs"
+
+#: inc/register.php:224
+msgid ":Hover Colors"
+msgstr "Dans :Hover Couleurs"
+
+#: inc/register.php:225
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: inc/register.php:231
+msgid "Set Active Tab"
+msgstr "Sélectionnez  onglet actif "
+
+#: inc/register.php:240
+msgid "Select Layout"
+msgstr "Sélectionner une Mise en page"
+
+#: inc/register.php:249
+msgid "Select an animation"
+msgstr "Sélectionnez Animation Effet"
+
+#: inc/register.php:282
+msgid "Select Mode"
+msgstr "Choisir Mode"
+
+#: inc/register.php:290
+msgid "Navigation Tabs Position"
+msgstr "Position de l'onglet :"
+
+#: inc/register.php:303
+msgid "Navigation Tabs Align"
+msgstr "Alignement  de la navigation"
+
+#: inc/register.php:318
+msgid "Float Tab"
+msgstr "Float Tab"
+
+#: inc/register.php:327
+msgid "Turn On/Off Nav and heading title text shadow:"
+msgstr "Activer / Désactiver  le cap texte du titre ombre:"
+
+#: inc/register.php:333
+msgid "Choose between dark/light"
+msgstr "Choisissez entre l'ombre / lumière"
+
+#: inc/register.php:351
+msgid "Icon Color"
+msgstr "Couleur de l'icône"
+
+#: inc/register.php:355
+msgid "Title Color"
+msgstr "Couleur du titre"
+
+#: inc/register.php:359
+msgid "SubTitle Color"
+msgstr "Couleur Sous-Titre"
+
+#: inc/register.php:363
+msgid "Content Text Color"
+msgstr "Couleur du texte du contenu"
+
+#: inc/register.php:368
+msgid "Tab Navigation Background Color"
+msgstr "Couleur de fond de la navigation"
+
+#: inc/register.php:375
+msgid "Tab Content Background Color"
+msgstr "Tab Content Couleur de fond"
+
+#: inc/register.php:381
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: inc/register.php:387
+msgid "Accordion heading Background Colorturbotabs"
+msgstr "rubrique Accordéon Colorturbotabs de fond"
+
+#: inc/register.php:397
+msgid "Tab Navigation on :Hover Text Color"
+msgstr "Les onglets de navigation sur :Hover Couleur du texte"
+
+#: inc/register.php:402
+msgid "Tab Navigation on :Hover Background Color"
+msgstr "Les onglets de navigation sur Contexte :Hover Couleur"
+
+#: inc/register.php:410
+msgid "Tab Navigation Selected (active one) Background Color"
+msgstr ""
+"Les onglets de navigation sélectionnée (une activité) Couleur de fond"
+
+#: inc/register.php:418
+msgid "Selected (active one) Tab Navigation Border Color"
+msgstr ""
+"Sélectionné (actif une) les onglets de navigation Couleur de la bordure"
+
+#: inc/register.php:426
+msgid "Tab Width (in %)"
+msgstr " Width (Largeur de onglet) - (en%) "
+
+#: inc/register.php:432
+msgid "Padding (in %)"
+msgstr "Padding (en%)"
+
+#: inc/register.php:438
+msgid "Border Radius"
+msgstr "Border Radius (Coins arrondis de la bordure)"
+
+#: inc/register.php:443
+msgid "Box Shadow"
+msgstr "Box Shadow (ombre)"
+
+#: inc/setup.php:157
+msgid "Save/Update Tab"
+msgstr "Save / Onglet Mise à jour"
+
+#: inc/setup.php:177
+msgid "Delete Permanently"
+msgstr "Supprimer de façon définitive"
+
+#: inc/setup.php:179
+msgid "Move to Trash"
+msgstr "Jeter à la corbeille"
+
+#: inc/setup.php:194 inc/setup.php:195
+msgid "Update Tab"
+msgstr "Onglet Mise à jour"
+
+#: inc/setup.php:231
+msgid "Tab Navigation Title"
+msgstr "Titre Navigation"
+
+#: inc/setup.php:232
+msgid "SubTitle"
+msgstr "Sous-titre :"
+
+#: inc/setup.php:233
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/setup.php:235
+msgid "Date"
+msgstr "Date"

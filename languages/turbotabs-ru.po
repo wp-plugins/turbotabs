@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TurboTabs\n"
+"POT-Creation-Date: 2015-04-10 11:31+0100\n"
+"PO-Revision-Date: 2015-04-10 11:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/register.php:26
+msgid "TurboTabs"
+msgstr "TurboTabs"
+
+#: inc/register.php:27
+msgid "Tab"
+msgstr "Закладка"
+
+#: inc/register.php:28
+msgid "Tabs"
+msgstr "Закладки"
+
+#: inc/register.php:29 inc/setup.php:189 inc/setup.php:190
+msgid "Add Tab"
+msgstr "Добавить Вкладку"
+
+#: inc/register.php:30
+msgid "Add new Tab"
+msgstr "Добавить Новую Вкладку"
+
+#: inc/register.php:31
+msgid "New Tab"
+msgstr "Новая вкладка"
+
+#: inc/register.php:32
+msgid "Edit Tab"
+msgstr "Редактировать вкладка"
+
+#: inc/register.php:33
+msgid "All Tabs"
+msgstr "Все вкладки"
+
+#: inc/register.php:34
+msgid "View Tab"
+msgstr "Вкладка «Вид»"
+
+#: inc/register.php:35
+msgid "No Tab found"
+msgstr "Не вкладка не найдено"
+
+#: inc/register.php:36
+msgid "No Tabs found in trash"
+msgstr "Не Вкладки не найдено в мусор"
+
+#: inc/register.php:56 inc/register.php:64
+msgid "Groups"
+msgstr "Группы"
+
+#: inc/register.php:57 inc/setup.php:234
+msgid "Group"
+msgstr "Группа"
+
+#: inc/register.php:58
+msgid "Search Groups"
+msgstr "Искать группы"
+
+#: inc/register.php:59
+msgid "All Groups"
+msgstr "Все группы"
+
+#: inc/register.php:60
+msgid "Edit Group"
+msgstr "Изменить группу"
+
+#: inc/register.php:61
+msgid "Update Group"
+msgstr "Обновить группа"
+
+#: inc/register.php:62
+msgid "Add New Group"
+msgstr "Добавить новую группу"
+
+#: inc/register.php:63
+msgid "New Group Name"
+msgstr "Название новой группы"
+
+#: inc/register.php:65
+msgid "No Group found"
+msgstr "Не группа не найдено"
+
+#: inc/register.php:82
+msgid "Nav Title Icon"
+msgstr "Иконка"
+
+#: inc/register.php:89
+msgid "Optional Navigation Sub-Title"
+msgstr "под  заголовок"
+
+#: inc/register.php:107
+msgid "Select an Icon"
+msgstr "Выберите иконку"
+
+#: inc/register.php:218
+msgid "Customization Options"
+msgstr "Настройки"
+
+#: inc/register.php:222
+msgid "Basics"
+msgstr "Основные положения"
+
+#: inc/register.php:223
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/register.php:224
+msgid ":Hover Colors"
+msgstr ":Hover Цвета"
+
+#: inc/register.php:225
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: inc/register.php:231
+msgid "Set Active Tab"
+msgstr "Установить активным Закладка"
+
+#: inc/register.php:240
+msgid "Select Layout"
+msgstr "Выберите шаблон ..."
+
+#: inc/register.php:249
+msgid "Select an animation"
+msgstr "Выберите анимацию."
+
+#: inc/register.php:282
+msgid "Select Mode"
+msgstr "Режим выбора"
+
+#: inc/register.php:290
+msgid "Navigation Tabs Position"
+msgstr "Положение навигации Закладки"
+
+#: inc/register.php:303
+msgid "Navigation Tabs Align"
+msgstr "Закладки навигации выравнивать"
+
+#: inc/register.php:318
+msgid "Float Tab"
+msgstr "Float Закладка"
+
+#: inc/register.php:327
+msgid "Turn On/Off Nav and heading title text shadow:"
+msgstr "Включение / выключение заголовка название тень текста:"
+
+#: inc/register.php:333
+msgid "Choose between dark/light"
+msgstr "Выбор между темный / светлый"
+
+#: inc/register.php:351
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: inc/register.php:355
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: inc/register.php:359
+msgid "SubTitle Color"
+msgstr "Цвет под заголовка"
+
+#: inc/register.php:363
+msgid "Content Text Color"
+msgstr "Цвет текста контента"
+
+#: inc/register.php:368
+msgid "Tab Navigation Background Color"
+msgstr "Цвет фона навигации"
+
+#: inc/register.php:375
+msgid "Tab Content Background Color"
+msgstr "Цвет фона для контента"
+
+#: inc/register.php:381
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: inc/register.php:387
+msgid "Accordion heading Background Color"
+msgstr "Аккордеон Цвета фона заголовка"
+
+#: inc/register.php:397
+msgid "Tab Navigation on :Hover Text Color"
+msgstr "Закладка Навигация по :Hover Цвет текста"
+
+#: inc/register.php:402
+msgid "Tab Navigation on :Hover Background Color"
+msgstr "Закладка Навигация по :Hover Цвет фона"
+
+#: inc/register.php:410
+msgid "Tab Navigation Selected (active one) Background Color"
+msgstr "Закладка Навигация Выбранные (активным) Цвет фона"
+
+#: inc/register.php:418
+msgid "Selected (active one) Tab Navigation Border Color"
+msgstr "Выбранные (активным) Закладка  Цвет рамки"
+
+#: inc/register.php:426
+msgid "Tab Width (in %)"
+msgstr "Вкладка Ширина (в%)"
+
+#: inc/register.php:432
+msgid "Padding (in %)"
+msgstr "Padding (Заполнение ) - (в%)"
+
+#: inc/register.php:438
+msgid "Border Radius"
+msgstr "Скругление рамки"
+
+#: inc/register.php:443
+msgid "Box Shadow"
+msgstr "Box Shadow (Тень Блока)"
+
+#: inc/setup.php:157
+msgid "Save/Update Tab"
+msgstr "Сними / Ажурирај"
+
+#: inc/setup.php:177
+msgid "Delete Permanently"
+msgstr "Удалить безвозвратно"
+
+#: inc/setup.php:179
+msgid "Move to Trash"
+msgstr "Переместить в корзину"
+
+#: inc/setup.php:194 inc/setup.php:195
+msgid "Update Tab"
+msgstr "Ажурирај"
+
+#: inc/setup.php:231
+msgid "Tab Navigation Title"
+msgstr "Заголовок вкладки"
+
+#: inc/setup.php:232
+msgid "SubTitle"
+msgstr "Подзаголовок:"
+
+#: inc/setup.php:233
+msgid "Icon"
+msgstr "иконка"
+
+#: inc/setup.php:235
+msgid "Date"
+msgstr "Дата"

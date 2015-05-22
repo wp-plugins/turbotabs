@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>Template Documentation Template</title>
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		a{text-decoration: none}
+		.active{background: palegoldenrod; color: #333;}
+		.box p { margin-bottom:10px; }
+		.note{padding: 15px; border-left: 3px solid indianred; background: palegoldenrod;}
+		img{max-width: 95%; height: auto; vertical-align: middle; box-sizing: border-box;}
+		h4, h3{margin: 17px 0; font-weight: bold; color: #333;}
+		.toc{padding: 10px; max-width: 15%; height: 100%; display: inline-block;}
+		.toc li{display: block; padding: 6px 15px; border: 1px solid #aaa; margin-top: 3px;}
+		.toc li ul{padding: 0; display: none;}
+		.toc li ul li{ border: 0; border-bottom: 1px solid #aaa;}
+		.toc li:hover ul{display: block}
+		body{width: 99%; border: 1px solid #aaa;}
+		.container{width: 78%; display: inline-block; padding: 15px;}
+		.container, .toc{vertical-align: top}
+	</style>
+</head>
+
+
+<body>
+
+		<ul class="toc">
+			<li><a href="intro.html">Introduction</a></li>
+			<li><a href="basics.html">Basics</a></li>
+			<li class="active"><a href="options.html">Options</a></li>
+			<li><a href="layouts.html">Layouts</a></li>
+			<li><a href="modes.html">Modes</a></li>	
+			<li><a href="shortcode.html">Shortcode</a></li>
+			<li><a href="upgrade.html">Upgrade</a></li>
+		</ul>
+
+	<div class="container">
+	
+		<h3 class="center alt">&ldquo;TurboTabs&rdquo; Documentation by &ldquo;Aleksej Vukomanovic&rdquo; v1.0</h3>
+		
+		<hr>
+		
+		<h1 class="center">&ldquo;TurboTabs&rdquo; Help - Options</h1>
+	
+		<div class="span-12 last">
+			<p class="prepend-top append-0">Thank you for purchasing my plugin. If you have any questions that are beyond the scope of this help file, visit my <a href="http://themeflection.com/support/">support forum</a>. Thanks so much!</p>
+		</div>	
+
+		<hr>		
+
+		<h3 id="options"><strong>B) Options</strong></h3>
+
+		<img src="images//options.png" alt="options" />
+
+		<h4>There are four groups of options:</h4>
+		<ul> 
+			<li>Basic</li>
+			<li>Colors</li>
+			<li>Hover Colors</li>
+			<li>Dimensions</li>
+		</ul>
+		<p><b>Basic</b> group consists of some basic styling options that focus more on its primary functions than on design itself. Here you can change how tab is displayed, it's animation, interaction, etc. More about each option in detail is available in the options panel itself. To acquire more information just hover with your mouse over the red question mark next to the selected option.</p>
+
+		<p><b>Colors</b> group, as it's name says, is focused on the tab design, it's appearance. You can change almost any aspect of it - you can put your imagination to play.</p>
+
+		<p><b>Hover colors</b> group consists of option designed to take effect when mouse hover action is applied. In this group tere is also an option for <em>active</em> state - this applies to the selected tab(mostly navigation tab and its title, subtitle and icon). Don't get it confused with <em>:active</em> state if you are familiar with CSS. I used term <em>active</em> to describe the state of the currently opened tab. Other details are also present via in-content help as all other groups.</p>  
+
+		<p><b>Dimensons</b> group covers primarly <em>Width</em> of the tab, along with it's <em>Padding</em> that should be calculated in final <em>Width</em>. Both can be selected in pixels (px) or percents (%). entered <em>Padding</em> value is calculated per side. Which means if you enter 20% to be the value for the <em>padding</em> it will be calculated as 20% for the left side and as equal (20%) for the right side - which means that 40% of the screen is taken and your tab <em>width</em> <u>have to be</u> 60%. This way you use 100% of the screen and your tab is <em>centered</em>. So for full screen tab you would use 100% <em>width</em> and 0% <em>padding</em>. For usage in px, you need to calculate final width of your layout (if it is fixed type layout width predefined width in px's).</p>
+
+		<p>In this group are also included box shadow spread, or size which affects, as it's title says, the spread of the shadow that tab drops to the parent element. Beside that you can also edit border radius of the tab (curvings around the tab's corners).</p>
+
+		<div class="note">
+			<em class="point">NOTE:</em> If your theme layout is set to fixed (meaning it is not responsive) tabs won't have responsive behaviour either. In order for responsivness to take effect it must detect change in width of the parent element, it's holder, which in most cases would be the body of the document. If this remains the same when the page is resized on smaller screen TurboTabs will not detect any change and will behave just as the rest of the page - as fixed. Also if you set <em>fixed width</em> (in pixels) for the tab it will not be responsive. For responsive design you need to set <em>width</em> in percents(%).
+		</div>
+
+	</div>	
+
+</body>
+</html>

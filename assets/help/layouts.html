@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>Template Documentation Template</title>
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		a{text-decoration: none}
+		.active{background: palegoldenrod; color: #333;}
+		.box p { margin-bottom:10px; }
+		.note{padding: 15px; border-left: 3px solid indianred; background: palegoldenrod;}
+		img{max-width: 95%; height: auto; vertical-align: middle; box-sizing: border-box;}
+		h4, h3{margin: 17px 0; font-weight: bold; color: #333;}
+		.toc{padding: 10px; max-width: 15%; height: 100%; display: inline-block;}
+		.toc li{display: block; padding: 6px 15px; border: 1px solid #aaa; margin-top: 3px;}
+		.toc li ul{padding: 0; display: none;}
+		.toc li ul li{ border: 0; border-bottom: 1px solid #aaa;}
+		.toc li:hover ul{display: block}
+		body{width: 99%; border: 1px solid #aaa;}
+		.container{width: 78%; display: inline-block; padding: 15px;}
+		.container, .toc{vertical-align: top}
+		.pro{color: indianred; font-style: italic;}
+	</style>
+</head>
+
+
+<body>
+
+	<ul class="toc">
+			<li><a href="intro.html">Introduction</a></li>
+			<li><a href="basics.html">Basics</a></li>
+			<li><a href="options.html">Options</a></li>
+			<li class="active"><a href="layouts.html">Layouts</a></li>
+			<li><a href="modes.html">Modes</a></li>	
+			<li><a href="shortcode.html">Shortcode</a></li>
+			<li><a href="upgrade.html">Upgrade</a></li>
+	</ul>
+
+	<div class="container">
+	
+		<h3 class="center alt">&ldquo;TurboTabs&rdquo; Documentation by &ldquo;Aleksej Vukomanovic&rdquo; v1.0</h3>
+		
+		<hr>
+		
+		<h1 class="center">&ldquo;TurboTabs&rdquo; Help - Layouts</h1>
+	
+		<div class="span-12 last">
+			<p class="prepend-top append-0">Thank you for purchasing my plugin. If you have any questions that are beyond the scope of this help file, visit my <a href="http://themeflection.com/support/">support forum</a>. Thanks so much!</p>
+		</div>
+		
+		<hr>
+
+		<h3 id="layoutst"><strong>C) layouts</strong></h3>
+		
+		<p>There are 4 layouts that makes the core of the TurboTabs:</p>
+		
+		<ul>
+			<li>TurboTab</li>
+			<li>Classic - <span class="pro">Available in PRO Version</span></li>
+			<li>Simple - <span class="pro">Available in PRO Version</span></li>
+			<li>Hollow - <span class="pro">Available in PRO Version</span></li>
+		</ul>
+
+		<p>Each of these layouts have it's own basic appearance. Look at it as an foundation on which you can build whatever you like. To make them more unique and to stand out every layout has it's own set of available options. Some layout like <em><strong>Simple</strong></em> and <em><strong>Classic</strong></em> have some similarities but are still different in the limitations of some options. Yet, some options can work differently for one style than to another. every instance is documented in in-content help (which you can receive by hovering with your mouse over the red question mark next to the option).</p>
+
+		<h3 id="turbotab">TurboTab Layout</h3>
+
+		<p>You can style everything except <em>border color</em> of the tab - because this layout is not designed to support borders. Everything else is fully customizable. </p>
+
+		<h4>What can you edit:</h4>
+		<ol>
+			<li>Icon Color</li>
+			<li>Title Color</li>
+			<li>SubTitle Color - <span class="pro">Available in PRO Version</span>r</li>
+			<li>Content Text Color</li>
+			<li>Navigation Background Color</li>
+			<li>Tab Content Background Color</li>
+			<li>On mouse <em>:hover</em> and <em>active state</em> navigation text color - <span class="pro">Available in PRO Version</span></li>
+			<li><em>active state</em> navigation background color</li>
+		</ol>
+
+		<p>Illustration:</p>
+
+		<img src="images/turbotab_lyt.png"/>
+		  		
+		<hr>
+
+		<h3 id="classic">Classic Layout - <span class="pro">Available in PRO Version</span></h3>
+
+		<p>This layout is designed to have some kind of "classic" look. Navigation tab border radius is set to 0 - meaning there is no border radius (tab navigation corners are sharp), and <em>tab content background color</em> is applied also to the <em>active</em> navigation.</p>
+
+		<h4>What can you edit:</h4>
+		<ol>
+			<li>Icon Color</li>
+			<li>Title Color</li>
+			<li>SubTitle Color</li>
+			<li>Content Text Color</li>
+			<li>Navigation Background Color (This applies to non-active tabs)</li>
+			<li>Tab Content Background Color (which applies to the active tab as well)</li>
+			<li>Navigation tab text color when in <em>:hover</em> and <em>active</em> state.</li>
+			<li>Border Color</li>
+		</ol>
+
+		<p>Illustration:</p>
+
+		<img src="images/classic_lyt.png"/>
+
+		<h3 id="classic">Simple Layout - <span class="pro">Available in PRO Version</span></h3>
+
+		<p>This layout is similar to classic one. Difference is has small border radius at the corners of tab navigation and tab navigation background color is transparent - they are not colored except for the <em>active</em> one which, same as in classic layout) inherit it's color from <em>tab content background color</em>.</p>
+
+		<h4>What can you edit:</h4>
+		<ol>
+			<li>Icon Color</li>
+			<li>Title Color</li>
+			<li>SubTitle Color</li>
+			<li>Content Text Color</li>
+			<li>Tab Content Background Color (which applies to the active tab as well)</li>
+			<li>Navigation tab text color when in <em>:hover</em> and <em>active</em> state.</li>
+			<li>Border Color</li>
+		</ol>
+
+		<p>Illustration:</p>
+
+		<img src="images/simple_lyt.png"/>
+
+		<h3 id="classic">Hollow Layout - <span class="pro">Available in PRO Version</span></h3>
+
+		<p>This layout pretty much stand out from all previous ones. Main difference between <em>hallow</em> layout and other layouts is that it doesn't has standard design. On contrary it is made to have "hollow" appearance - meaning that there are no content background and tab navigation background colors. No <em>:hover colors</em>, or <em>active</em> either. Instead you can use <em>Border Color</em> and <em>active</em> state border color to change it's look. Border color will apply to border line beneath, above, left, or right (depending from mode you use) of the navigation tabs. <em>Active</em> tab <em>Border Color</em> will apply to the border beneath that specific (active) tab. This will override the main <em>border color</em> creating underline effect.</p>
+
+		<h4>What can you edit:</h4>
+		<ol>
+			<li>Icon Color</li>
+			<li>Title Color</li>
+			<li>SubTitle Color</li>
+			<li>Content Text Color</li>
+			<li>Navigation tab text color when in <em>:hover</em> and <em>active</em> state.</li>
+			<li>Border Color</li>
+			<li>On mouse :hover Border Color</li>
+		</ol>
+
+		<p>Illustration:</p>
+
+		<img src="images/hollow_lyt.png"/>
+
+	</div>	
+
+</body>
+</html>

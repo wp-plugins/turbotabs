@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TurboTabs\n"
+"POT-Creation-Date: 2015-04-10 11:22+0100\n"
+"PO-Revision-Date: 2015-04-10 11:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/register.php:26
+msgid "TurboTabs"
+msgstr "TurboTabs"
+
+#: inc/register.php:27
+msgid "Tab"
+msgstr "Tab"
+
+#: inc/register.php:28
+msgid "Tabs"
+msgstr "Tabs"
+
+#: inc/register.php:29 inc/setup.php:189 inc/setup.php:190
+msgid "Add Tab"
+msgstr "Tab hinzufügen"
+
+#: inc/register.php:30
+msgid "Add new Tab"
+msgstr "Neuen Tab"
+
+#: inc/register.php:31
+msgid "New Tab"
+msgstr "neuen Tab"
+
+#: inc/register.php:32
+msgid "Edit Tab"
+msgstr "Reiter Tab"
+
+#: inc/register.php:33
+msgid "All Tabs"
+msgstr "Alle Tabs"
+
+#: inc/register.php:34
+msgid "View Tab"
+msgstr "Ansicht Tab"
+
+#: inc/register.php:35
+msgid "No Tab found"
+msgstr "Nein Tab gefunden"
+
+#: inc/register.php:36
+msgid "No Tabs found in trash"
+msgstr "Keine Tabs im Papierkorb gefunden"
+
+#: inc/register.php:56 inc/register.php:64
+msgid "Groups"
+msgstr "Gruppen"
+
+#: inc/register.php:57 inc/setup.php:234
+msgid "Group"
+msgstr "Group"
+
+#: inc/register.php:58
+msgid "Search Groups"
+msgstr "Suche Gruppe"
+
+#: inc/register.php:59
+msgid "All Groups"
+msgstr "Alle Gruppen"
+
+#: inc/register.php:60
+msgid "Edit Group"
+msgstr "Gruppe bearbeiten"
+
+#: inc/register.php:61
+msgid "Update Group"
+msgstr "Update-Gruppe"
+
+#: inc/register.php:62
+msgid "Add New Group"
+msgstr "Neue Gruppe hinzufügen"
+
+#: inc/register.php:63
+msgid "New Group Name"
+msgstr "Neuer Gruppenname"
+
+#: inc/register.php:65
+msgid "No Group found"
+msgstr "Keine Gruppe gefunden"
+
+#: inc/register.php:82
+msgid "Nav Title Icon"
+msgstr "Nav Titel Icon"
+
+#: inc/register.php:89
+msgid "Optional Navigation Sub-Title"
+msgstr "Optional Navigation Sub-Titel"
+
+#: inc/register.php:107
+msgid "Select an Icon"
+msgstr "Wählen Sie ein Icon"
+
+#: inc/register.php:218
+msgid "Customization Options"
+msgstr "Anpassungsoptionen"
+
+#: inc/register.php:222
+msgid "Basics"
+msgstr "Grundlagen:"
+
+#: inc/register.php:223
+msgid "Colors"
+msgstr "Design-Farben"
+
+#: inc/register.php:224
+msgid ":Hover Colors"
+msgstr ": Hover Farben"
+
+#: inc/register.php:225
+msgid "Dimensions"
+msgstr "Dimensionen:"
+
+#: inc/register.php:231
+msgid "Set Active Tab"
+msgstr "Aktive Tab Hintergrundfarbe"
+
+#: inc/register.php:240
+msgid "Select Layout"
+msgstr "Layout auswählen"
+
+#: inc/register.php:249
+msgid "Select an animation"
+msgstr "Wählen Sie eine Animation"
+
+#: inc/register.php:282
+msgid "Select Mode"
+msgstr "Wählen Sie eine Mode"
+
+#: inc/register.php:290
+msgid "Navigation Tabs Position"
+msgstr "Wählen Sie die Navigation-Position"
+
+#: inc/register.php:303
+msgid "Navigation Tabs Align"
+msgstr "Navigationsregisterkarten ausrichten"
+
+#: inc/register.php:318
+msgid "Float Tab"
+msgstr "Float Tab"
+
+#: inc/register.php:327
+msgid "Turn On/Off Nav and heading title text shadow:"
+msgstr "Ein- / Ausschalten Nav und Richtung Titeltext Schatten:"
+
+#: inc/register.php:333
+msgid "Choose between dark/light"
+msgstr "Wählen Sie zwischen hell / dunkel"
+
+#: inc/register.php:351
+msgid "Icon Color"
+msgstr "Icon Farbe"
+
+#: inc/register.php:355
+msgid "Title Color"
+msgstr "Titel Farbe"
+
+#: inc/register.php:359
+msgid "SubTitle Color"
+msgstr "Farbe der Untertitel"
+
+#: inc/register.php:363
+msgid "Content Text Color"
+msgstr "Inhalt Textfarbe"
+
+#: inc/register.php:368
+msgid "Tab Navigation Background Color"
+msgstr "Tab Navigation Hintergrundfarbe"
+
+#: inc/register.php:375
+msgid "Tab Content Background Color"
+msgstr "Tab Content-Hintergrundfarbe"
+
+#: inc/register.php:381
+msgid "Border Color"
+msgstr "Rahmen Farbe"
+
+#: inc/register.php:387
+msgid "Accordion heading Background Colorturbotabs"
+msgstr "Akkordeon Background Überschrift Farbe"
+
+#: inc/register.php:397
+msgid "Tab Navigation on :Hover Text Color"
+msgstr "Tab Navigation auf :Hover Text Farbe"
+
+#: inc/register.php:402
+msgid "Tab Navigation on :Hover Background Color"
+msgstr "Tab Navigation auf :Hover-Hintergrundfarbe"
+
+#: inc/register.php:410
+msgid "Tab Navigation Selected (active one) Background Color"
+msgstr "Tab Navigation Ausgewählt (aktive) Hintergrundfarbe"
+
+#: inc/register.php:418
+msgid "Selected (active one) Tab Navigation Border Color"
+msgstr "Ausgewählt (aktive) Tab Navigation Rahmenfarbe"
+
+#: inc/register.php:426
+msgid "Tab Width (in %)"
+msgstr "Tab Width (in %)"
+
+#: inc/register.php:432
+msgid "Padding (in %)"
+msgstr "Padding (in %)"
+
+#: inc/register.php:438
+msgid "Border Radius"
+msgstr "Rahmen-Radius"
+
+#: inc/register.php:443
+msgid "Box Shadow"
+msgstr "Box Schatten"
+
+#: inc/setup.php:157
+msgid "Save/Update Tab"
+msgstr "Speichern / Update Tab"
+
+#: inc/setup.php:177
+msgid "Delete Permanently"
+msgstr "Unwiderruflich löschen"
+
+#: inc/setup.php:179
+msgid "Move to Trash"
+msgstr "In den Papierkorb verschieben"
+
+#: inc/setup.php:194 inc/setup.php:195
+msgid "Update Tab"
+msgstr "Update-Tab"
+
+#: inc/setup.php:231
+msgid "Tab Navigation Title"
+msgstr "Tab Navigation Titel"
+
+#: inc/setup.php:232
+msgid "SubTitle"
+msgstr "Untertitel:"
+
+#: inc/setup.php:233
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/setup.php:235
+msgid "Date"
+msgstr "Datum"
